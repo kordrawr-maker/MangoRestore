@@ -30,7 +30,11 @@ Back up and restore your Discord server structure — channels, roles, permissio
 1. Paste your token on the **Bot Token** page and click Verify
 2. Go to **Backup**, select your server, and click Start Backup
 3. The `.dbak` file is saved to `~/Discord Backups/` by default
+
+
 ![image alt](https://github.com/kordrawr-maker/MangoRestore/blob/30ab6c28012dfe4399d33fa94eff2483995c2109/imgs/Screenshot%202026-04-13%20145046.png)
+
+
 ### Restoring
 1. Go to **Restore**, click Browse and select a `.dbak` file
 2. Select the target server (must be empty or you can opt to wipe it first)
