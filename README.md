@@ -1,4 +1,4 @@
-# Discord Backup Tool
+# MangoRestore
 
 Back up and restore your Discord server structure — channels, roles, permissions, emojis, and settings.
 
