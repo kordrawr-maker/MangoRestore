@@ -1,5 +1,5 @@
 #  🥭 MangoRestore
-
+-# all credits goto 2.40987 on discord (known as mangoboy456)
 Back up and restore your Discord server structure — channels, roles, permissions, emojis, and settings.
 
 ## Setup
